@@ -108,3 +108,11 @@ body.dark-mode footer {
 body.dark-mode a {
   color: #9cf;
 }
+
+.subheading {
+  margin-top: -10px;
+  font-size: 1rem;
+  color: #ccc;
+  font-style: italic;
+}
+
